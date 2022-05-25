@@ -1,0 +1,21 @@
+{
+  "name": "express-session-expo",
+  "version": "1.0.0",
+  "description": "This is the implementation of sessions and cookies using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "session"
+  ],
+  "author": "developeruche",
+  "license": "MIT",
+  "dependencies": {
+    "connect-mongo": "^4.6.0",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.3.4"
+  }
+}
